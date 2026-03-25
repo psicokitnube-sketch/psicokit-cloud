@@ -1,8 +1,82 @@
 [
   {
-    "id": "KUDER-C",
-    "title": "Registro de Preferencias Vocacionales (Kuder-C)",
-    "category": "Vocacional",
-    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Kuder-C.psk"
+    "id": "psk_audit_01",
+    "title": "Cuestionario AUDIT",
+    "subtitle": "Detección de Alcohol de la OMS",
+    "category": "Clínica",
+    "icon": "fa-wine-glass",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/AUDIT_Psicokit.psk"
+  },
+  {
+    "id": "psk_bai_01",
+    "title": "Inventario BAI",
+    "subtitle": "Inventario de Ansiedad de Beck",
+    "category": "Clínica",
+    "icon": "fa-heart-pulse",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/BAI_Psicokit.psk"
+  },
+  {
+    "id": "psk_cbi_01",
+    "title": "Escala CBI",
+    "subtitle": "Escala de Sobrecarga del Cuidador de Zarit",
+    "category": "Clínica",
+    "icon": "fa-hands-holding-child",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/CBI_Psicokit.psk"
+  },
+  {
+    "id": "psk_ear_01",
+    "title": "Escala EAR",
+    "subtitle": "Escala de Autoestima de Rosenberg",
+    "category": "Clínica",
+    "icon": "fa-user-check",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/EAR_Psicokit.psk"
+  },
+  {
+    "id": "psk_mbi_01",
+    "title": "Inventario MBI",
+    "subtitle": "Inventario de Burnout de Maslach",
+    "category": "Organizacional",
+    "icon": "fa-fire-flame-curved",
+    "url": "hhttps://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/MBI_Psicokit.psk"
+  },
+  {
+    "id": "psk_pss14_01",
+    "title": "Escala PSS-14",
+    "subtitle": "Escala de Estrés Percibido",
+    "category": "Clínica",
+    "icon": "fa-bolt",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/PSS-14_Psicokit.psk"
+  },
+  {
+    "id": "psk_sds_01",
+    "title": "Escala SDS",
+    "subtitle": "Escala de Autoevaluación de Depresión de Zung",
+    "category": "Clínica",
+    "icon": "fa-cloud-rain",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/SDS_Psicokit.psk"
+  },
+  {
+    "id": "psk_sas_01",
+    "title": "Escala SAS",
+    "subtitle": "Escala de Autoevaluación de Ansiedad de Zung",
+    "category": "Clínica",
+    "icon": "fa-cloud-bolt",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/SAS_Psicokit.psk"
+  },
+  {
+    "id": "psk_intel_01",
+    "title": "Inteligencias Múltiples",
+    "subtitle": "Evaluación de Inteligencias Múltiples",
+    "category": "Educativa",
+    "icon": "fa-brain",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/Test%20Inteligencias%20Multiples_Psicokit.psk"
+  },
+  {
+    "id": "psk_wonderlic_01",
+    "title": "Test de Wonderlic",
+    "subtitle": "Evaluación de Capacidad Cognitiva General",
+    "category": "Organizacional",
+    "icon": "fa-lightbulb",
+    "url": "https://github.com/psicokitnube-sketch/psicokit-cloud/blob/main/Test%20de%20Wonderlic_Psicokit.psk"
   }
 ]
