@@ -78,7 +78,7 @@
     "category": "Organizacional",
     "icon": "fa-lightbulb",
     "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Test%20de%20Wonderlic_Psicokit.psk"
-  }
+  },
   {
     "id": "psk_gds15_01",
     "title": "GDS-15",
@@ -125,7 +125,7 @@
     "subtitle": "Escala Obsesivo-Compulsiva de Bebida",
     "category": "Clínica",
     "icon": "fa-beer-mug-empty",
-    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/MMSE_Psicokit.psk"
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/OCDS_Psicokit.psk"
   },
   {
     "id": "psk_phq15_01",
