@@ -79,4 +79,244 @@
     "icon": "fa-lightbulb",
     "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Test%20de%20Wonderlic_Psicokit.psk"
   }
+  {
+    "id": "psk_gds15_01",
+    "title": "GDS-15",
+    "subtitle": "Escala de Depresión Geriátrica de Yesavage - Versión Breve",
+    "category": "Clínica",
+    "icon": "fa-person-cane",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/GDS-15_Psicokit.psk"
+  },
+  {
+    "id": "psk_hads_01",
+    "title": "HADS",
+    "subtitle": "Escala Hospitalaria de Ansiedad y Depresión",
+    "category": "Clínica",
+    "icon": "fa-hospital",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/HADS_Psicokit.psk"
+  },
+  {
+    "id": "psk_hrsd_01",
+    "title": "HRSD",
+    "subtitle": "Escala de Evaluación para la Depresión de Hamilton",
+    "category": "Clínica",
+    "icon": "fa-clipboard-list",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/HRSD_Psicokit.psk"
+  },
+  {
+    "id": "psk_mchat_01",
+    "title": "M-CHAT",
+    "subtitle": "Cuestionario de Autismo en la Infancia Modificado",
+    "category": "Infantil",
+    "icon": "fa-child",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/M-CHAT_Psicokit.psk"
+  },
+  {
+    "id": "psk_mmse_01",
+    "title": "MMSE",
+    "subtitle": "Minimental",
+    "category": "Neuropsicología",
+    "icon": "fa-brain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/MMSE_Psicokit.psk"
+  },
+  {
+    "id": "psk_ocds_01",
+    "title": "OCDS",
+    "subtitle": "Escala Obsesivo-Compulsiva de Bebida",
+    "category": "Clínica",
+    "icon": "fa-beer-mug-empty",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/MMSE_Psicokit.psk"
+  },
+  {
+    "id": "psk_phq15_01",
+    "title": "PHQ-15",
+    "subtitle": "Cuestionario de Salud del Paciente para Síntomas Somáticos",
+    "category": "Clínica",
+    "icon": "fa-head-side-cough",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PHQ-15_Psicokit.psk"
+  },
+  {
+    "id": "psk_psq_01",
+    "title": "PSQ",
+    "subtitle": "Cuestionario de Estrés Percibido",
+    "category": "Clínica",
+    "icon": "fa-temperature-arrow-up",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PSQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_ras_01",
+    "title": "RAS",
+    "subtitle": "Test de Asertividad de Rathus",
+    "category": "Clínica",
+    "icon": "fa-comments",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/RAS_Psicokit.psk"
+  },
+  {
+    "id": "psk_sass_01",
+    "title": "SASS",
+    "subtitle": "Escala Autoaplicada de Adaptación Social",
+    "category": "Social",
+    "icon": "fa-people-group",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SASS_Psicokit.psk"
+  },
+  {
+    "id": "psk_scl90r_01",
+    "title": "SCL-90-R",
+    "subtitle": "Cuestionario de 90 Síntomas Revisado",
+    "category": "Clínica",
+    "icon": "fa-list-check",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SCL-90-R_Psicokit.psk"
+  },
+  {
+    "id": "psk_sf36_01",
+    "title": "SF-36",
+    "subtitle": "Cuestionario de Salud",
+    "category": "Salud",
+    "icon": "fa-heart",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SF-36_Psicokit.psk"
+  },
+  {
+    "id": "psk_spin_01",
+    "title": "SPIN",
+    "subtitle": "Inventario de Fobia Social",
+    "category": "Clínica",
+    "icon": "fa-eye-low-vision",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SPIN_Psicokit.psk"
+  },
+  {
+    "id": "psk_stai_01",
+    "title": "STAI",
+    "subtitle": "Cuestionario de Ansiedad Estado-Rasgo",
+    "category": "Clínica",
+    "icon": "fa-cloud-showers-heavy",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/STAI_Psicokit.psk"
+  },
+  {
+    "id": "psk_tas20_01",
+    "title": "TAS-20",
+    "subtitle": "Escala de Alexitimia de Toronto",
+    "category": "Clínica",
+    "icon": "fa-face-meh",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TAS-20_Psicokit.psk"
+  },
+  {
+    "id": "psk_teca_01",
+    "title": "TECA",
+    "subtitle": "Test de Empatía Cognitiva y Afectiva",
+    "category": "Social",
+    "icon": "fa-hand-holding-heart",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TECA_Psicokit.psk"
+  },
+  {
+    "id": "psk_lifo_01",
+    "title": "Test LIFO",
+    "subtitle": "Estilos Gerenciales",
+    "category": "Organizacional",
+    "icon": "fa-briefcase",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Test%20LIFO_Psicokit.psk"
+  },
+  {
+    "id": "psk_zavic_01",
+    "title": "ZAVIC",
+    "subtitle": "Test de ZAVIC Valores e Intereses",
+    "category": "Organizacional",
+    "icon": "fa-scale-balanced",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ZAVIC_Psicokit.psk"
+  },
+  {
+    "id": "psk_apgar_01",
+    "title": "APGAR Familiar",
+    "subtitle": "Evaluación del Funcionamiento Familiar",
+    "category": "Familiar",
+    "icon": "fa-house-chimney-user",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/APGAR_Psicokit.psk"
+  },
+  {
+    "id": "psk_bdiii_01",
+    "title": "BDI-II",
+    "subtitle": "Inventario de Depresión de Beck",
+    "category": "Clínica",
+    "icon": "fa-cloud",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BDI-II_Psicokit.psk"
+  },
+  {
+    "id": "psk_bhs_01",
+    "title": "BHS",
+    "subtitle": "Escala de Desesperanza de Beck",
+    "category": "Clínica",
+    "icon": "fa-link-slash",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BHS_Psicokit.psk"
+  },
+  {
+    "id": "psk_bsq_01",
+    "title": "BSQ",
+    "subtitle": "Cuestionario sobre la Imagen Corporal",
+    "category": "Clínica",
+    "icon": "fa-person",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BSQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_bss_01",
+    "title": "BSS",
+    "subtitle": "Escala de Ideación Suicida de Beck",
+    "category": "Clínica",
+    "icon": "fa-notes-medical",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BSS_Psicokit.psk"
+  },
+  {
+    "id": "psk_ces_01",
+    "title": "CES",
+    "subtitle": "Escala de Clima Escolar",
+    "category": "Educativa",
+    "icon": "fa-smog",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/CES_Psicokit.psk"
+  },
+  {
+    "id": "psk_dass21_01",
+    "title": "DASS-21",
+    "subtitle": "Escala de Depresión, Ansiedad y Estrés",
+    "category": "Clínica",
+    "icon": "fa-wave-square",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DASS-21_Psicokit.psk"
+  },
+  {
+    "id": "psk_dts_01",
+    "title": "DTS",
+    "subtitle": "Escala de Trauma de Davidson",
+    "category": "Clínica",
+    "icon": "fa-car-burst",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DTS_Psicokit.psk"
+  },
+  {
+    "id": "psk_epi_01",
+    "title": "EPI",
+    "subtitle": "Cuestionario de Personalidad de Eysenck",
+    "category": "Personalidad",
+    "icon": "fa-users-viewfinder",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/EPI_Psicokit.psk"
+  },
+  {
+    "id": "psk_epqr_01",
+    "title": "EPQ-R",
+    "subtitle": "Personalidad de Eysenck",
+    "category": "Personalidad",
+    "icon": "fa-id-card-clip",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/EPQ-R_Psicokit.psk"
+  },
+  {
+    "id": "psk_esfa_01",
+    "title": "ESFA",
+    "subtitle": "Escala de Satisfacción Familiar por Adjetivos",
+    "category": "Familiar",
+    "icon": "fa-children",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ESFA_Psicokit.psk"
+  },
+  {
+    "id": "psk_gad7_01",
+    "title": "GAD-7",
+    "subtitle": "Cuestionario de Trastorno de Ansiedad Generalizada",
+    "category": "Clínica",
+    "icon": "fa-bolt-lightning",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/GAD-7_Psicokit.psk"
+  }
 ]
