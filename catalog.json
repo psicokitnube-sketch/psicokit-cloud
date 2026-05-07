@@ -319,4 +319,492 @@
     "icon": "fa-bolt-lightning",
     "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/GAD-7_Psicokit.psk"
   }
+  {
+    "id": "psk_pid5sf_01",
+    "title": "PID-5-SF",
+    "subtitle": "Inventario de Personalidad para el DSM-5",
+    "category": "Personalidad",
+    "icon": "fa-id-card-clip",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PID-5-SF_Psicokit.psk"
+  },
+  {
+    "id": "psk_pseq_01",
+    "title": "PSEQ",
+    "subtitle": "Cuestionario de Autoeficacia para el Dolor",
+    "category": "Salud y Calidad de Vida",
+    "icon": "fa-heart-pulse",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PSEQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_psrs_01",
+    "title": "PSRS",
+    "subtitle": "Escala de Respuesta a Estímulos Fóbicos",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PSRS_Psicokit.psk"
+  },
+  {
+    "id": "psk_rbq3_01",
+    "title": "RBQ-3",
+    "subtitle": "Cuestionario de Conductas Repetitivas–3",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/RBQ-3_Psicokit.psk"
+  },
+  {
+    "id": "psk_rpqe_01",
+    "title": "RPQ-E",
+    "subtitle": "Cuestionario de práctica reflexiva",
+    "category": "Práctica Profesional",
+    "icon": "fa-user-doctor",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/RPQ-E_Psicokit.psk"
+  },
+  {
+    "id": "psk_sas_01",
+    "title": "SAS",
+    "subtitle": "Fortalezas y Estresores",
+    "category": "Relaciones y Social",
+    "icon": "fa-people-arrows",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SAS_Psicokit.psk"
+  },
+  {
+    "id": "psk_scaredc_01",
+    "title": "SCARED-C",
+    "subtitle": "Escala de Detección de Ansiedad Infantil – Niños",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SCARED-C_Psicokit.psk"
+  },
+  {
+    "id": "psk_scaredp_01",
+    "title": "SCARED-P",
+    "subtitle": "Escala de Detección de Ansiedad Infantil - Padres",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SCARED-P_Psicokit.psk"
+  },
+  {
+    "id": "psk_sders_01",
+    "title": "S-DERS",
+    "subtitle": "Escala de Dificultades en la Regulación Emocional",
+    "category": "Regulación Emocional",
+    "icon": "fa-temperature-half",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/S-DERS_Psicokit.psk"
+  },
+  {
+    "id": "psk_snapiv_01",
+    "title": "SNAP-IV",
+    "subtitle": "Escala de Valoración de Síntomas de TDAH",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SNAP-IV_Psicokit.psk"
+  },
+  {
+    "id": "psk_staxi2_01",
+    "title": "STAXI-2",
+    "subtitle": "Inventario de Expresión de Ira Estado-rasgo",
+    "category": "Ira y Agresión",
+    "icon": "fa-fire",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/STAXI-2_Psicokit.psk"
+  },
+  {
+    "id": "psk_swan_01",
+    "title": "SWAN",
+    "subtitle": "Fortalezas y Debilidades de Síntomas del TDAH",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/SWAN_Psicokit.psk"
+  },
+  {
+    "id": "psk_tafsr_01",
+    "title": "TAFS-R",
+    "subtitle": "Escala de Fusión Pensamiento-Acción",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TAFS-R_Psicokit.psk"
+  },
+  {
+    "id": "psk_tipi_01",
+    "title": "TIPI",
+    "subtitle": "Inventario de Personalidad de Diez Ítems",
+    "category": "Personalidad",
+    "icon": "fa-id-card-clip",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TIPI_Psicokit.psk"
+  },
+  {
+    "id": "psk_tps7_01",
+    "title": "TPS-7",
+    "subtitle": "Seguridad Psicológica del Equipo",
+    "category": "Relaciones y Social",
+    "icon": "fa-people-arrows",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TPS-7_Psicokit.psk"
+  },
+  {
+    "id": "psk_trm_01",
+    "title": "TRM",
+    "subtitle": "Medida de Recuperación del Trauma",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/TRM_Psicokit.psk"
+  },
+  {
+    "id": "psk_vq_01",
+    "title": "VQ",
+    "subtitle": "Cuestionario de Valores",
+    "category": "Flexibilidad Psicológica",
+    "icon": "fa-arrows-split-up-and-left",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/VQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_whoqolbref_01",
+    "title": "WHOQOL-BREF",
+    "subtitle": "Instrumento de Calidad de Vida de la OMS",
+    "category": "Salud y Calidad de Vida",
+    "icon": "fa-heart-pulse",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/WHOQOL-BREF_Psicokit.psk"
+  },
+  {
+    "id": "psk_wurs25_01",
+    "title": "WURS-25",
+    "subtitle": "Escala de Calificación de Wender Utah",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/WURS-25_Psicokit.psk"
+  },
+  {
+    "id": "psk_ypcore_01",
+    "title": "YP-CORE",
+    "subtitle": "CORE para Jóvenes",
+    "category": "Evaluación Clínica General",
+    "icon": "fa-stethoscope",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/YP-CORE_Psicokit.psk"
+  },
+  {
+    "id": "psk_aaq2_01",
+    "title": "AAQ-2",
+    "subtitle": "Cuestionario de Aceptación y Acción",
+    "category": "Flexibilidad Psicológica",
+    "icon": "fa-arrows-split-up-and-left",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/AAQ-2_Psicokit.psk"
+  },
+  {
+    "id": "psk_acosclinician_01",
+    "title": "ACOS-Clinician",
+    "subtitle": "Escala de Resultados Clínicos del TDAH – Clínicos",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ACOS-Clinician_Psicokit.psk"
+  },
+  {
+    "id": "psk_acosself_01",
+    "title": "ACOS-Self",
+    "subtitle": "Escala de Resultados Clínicos del TDAH – Autoinformado",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ACOS-Self_Psicokit.psk"
+  },
+  {
+    "id": "psk_acsi28_01",
+    "title": "ACSI-28",
+    "subtitle": "Inventario de Habilidades de Afrontamiento Deportivo",
+    "category": "Psicología del Deporte",
+    "icon": "fa-person-running",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ACSI-28_Psicokit.psk"
+  },
+  {
+    "id": "psk_ades_01",
+    "title": "A-DES",
+    "subtitle": "Escala de Experiencias Disociativas en Adolescentes",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/A-DES_Psicokit.psk"
+  },
+  {
+    "id": "psk_apsq_01",
+    "title": "APSQ",
+    "subtitle": "Cuestionario de Tensión Psicológica en Atletas",
+    "category": "Psicología del Deporte",
+    "icon": "fa-person-running",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/APSQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_asqsf_01",
+    "title": "ASQ-SF",
+    "subtitle": "Cuestionario de Estilo de Apego",
+    "category": "Relaciones y Social",
+    "icon": "fa-people-arrows",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ASQ-SF_Psicokit.psk"
+  },
+  {
+    "id": "psk_asrsv11_01",
+    "title": "ASRS v1.1",
+    "subtitle": "Autoreporte TDAH en Adultos",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ASRS%20v1.1_Psicokit.psk"
+  },
+  {
+    "id": "psk_assq_01",
+    "title": "ASSQ",
+    "subtitle": "Cuestionario de Cribado del Espectro Autista",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ASSQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_bces_01",
+    "title": "BCEs",
+    "subtitle": "Escala de Experiencias Benevolentes en la Infancia",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BCEs_Psicokit.psk"
+  },
+  {
+    "id": "psk_bhitop_01",
+    "title": "B-HiTOP",
+    "subtitle": "Taxonomía Jerárquica Breve de Psicopatología",
+    "category": "Evaluación Clínica General",
+    "icon": "fa-stethoscope",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/B-HiTOP_Psicokit.psk"
+  },
+  {
+    "id": "psk_brief2waysss_01",
+    "title": "Brief 2-Way SSS",
+    "subtitle": "Escala Breve de Apoyo Social Bidireccional",
+    "category": "Relaciones y Social",
+    "icon": "fa-people-arrows",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Brief%202-Way%20SSS_Psicokit.psk"
+  },
+  {
+    "id": "psk_brs_01",
+    "title": "BRS",
+    "subtitle": "Escala Breve de Resiliencia",
+    "category": "Resiliencia y Bienestar",
+    "icon": "fa-seedling",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/BRS_Psicokit.psk"
+  },
+  {
+    "id": "psk_cdc_01",
+    "title": "CDC",
+    "subtitle": "Lista de Verificación Disociativa Infantil",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/CDC_Psicokit.psk"
+  },
+  {
+    "id": "psk_cdi_01",
+    "title": "CDI",
+    "subtitle": "Inventario de Depresión Infantil",
+    "category": "Trastornos del Estado de Ánimo",
+    "icon": "fa-cloud-rain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/CDI_Psicokit.psk"
+  },
+  {
+    "id": "psk_cfs_01",
+    "title": "CFS",
+    "subtitle": "Escala de Fatiga Crónica de Chalder",
+    "category": "Estrés y Fatiga",
+    "icon": "fa-battery-quarter",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/CFS_Psicokit.psk"
+  },
+  {
+    "id": "psk_csi16_01",
+    "title": "CSI-16",
+    "subtitle": "Índice de Satisfacción de Parejas",
+    "category": "Relaciones y Social",
+    "icon": "fa-people-arrows",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/CSI-16_Psicokit.psk"
+  },
+  {
+    "id": "psk_dabbs_01",
+    "title": "DABBS",
+    "subtitle": "Creencias de Ansiedad ante la Muerte",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DABBS_Psicokit.psk"
+  },
+  {
+    "id": "psk_dar5_01",
+    "title": "DAR-5",
+    "subtitle": "Dimensiones de las Reacciones de Ira",
+    "category": "Ira y Agresión",
+    "icon": "fa-fire",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DAR-5_Psicokit.psk"
+  },
+  {
+    "id": "psk_deteccincombi_01",
+    "title": "PMQ-9 / PHQ-9",
+    "subtitle": "Síntomas Maníacos y Depresivos",
+    "category": "Trastornos del Estado de Ánimo",
+    "icon": "fa-cloud-rain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/Detecci%C3%B3n%20Combi_Psicokit.psk"
+  },
+  {
+    "id": "psk_dss_01",
+    "title": "DSS",
+    "subtitle": "Escala de Estrés Digital",
+    "category": "Estrés y Fatiga",
+    "icon": "fa-battery-quarter",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DSS_Psicokit.psk"
+  },
+  {
+    "id": "psk_dudit_01",
+    "title": "DUDIT",
+    "subtitle": "Test Trastornos por Consumo de Drogas",
+    "category": "Adicciones",
+    "icon": "fa-wine-glass",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/DUDIT_Psicokit.psk"
+  },
+  {
+    "id": "psk_eda8_01",
+    "title": "EDA-8",
+    "subtitle": "Evitación Extrema de Demandas – 8",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/EDA-8_Psicokit.psk"
+  },
+  {
+    "id": "psk_edaqa_01",
+    "title": "EDA-QA",
+    "subtitle": "Evitación Extrema de Demandas – Adultos",
+    "category": "Neurodesarrollo",
+    "icon": "fa-puzzle-piece",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/EDA-QA_Psicokit.psk"
+  },
+  {
+    "id": "psk_esqr_01",
+    "title": "ESQ-R",
+    "subtitle": "Cuestionario de Habilidades Ejecutivas",
+    "category": "Funciones Ejecutivas",
+    "icon": "fa-gears",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ESQ-R_Psicokit.psk"
+  },
+  {
+    "id": "psk_fas_01",
+    "title": "FAS",
+    "subtitle": "Escala de Evaluación de la Fatiga",
+    "category": "Estrés y Fatiga",
+    "icon": "fa-battery-quarter",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/FAS_Psicokit.psk"
+  },
+  {
+    "id": "psk_hama_01",
+    "title": "HAM-A",
+    "subtitle": "Escala de Hamilton (Ansiedad)",
+    "category": "Ansiedad y Fobias",
+    "icon": "fa-cloud-bolt",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/HAM-A_Psicokit.psk"
+  },
+  {
+    "id": "psk_hamd_01",
+    "title": "HAM-D",
+    "subtitle": "Escala de Hamilton (Depresión)",
+    "category": "Trastornos del Estado de Ánimo",
+    "icon": "fa-cloud-rain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/HAM-D_Psicokit.psk"
+  },
+  {
+    "id": "psk_hhi_01",
+    "title": "HHI",
+    "subtitle": "Índice de Esperanza de Herth",
+    "category": "Resiliencia y Bienestar",
+    "icon": "fa-seedling",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/HHI_Psicokit.psk"
+  },
+  {
+    "id": "psk_itq_01",
+    "title": "ITQ",
+    "subtitle": "Cuestionario Internacional de Trauma",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ITQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_itqca_01",
+    "title": "ITQ-CA",
+    "subtitle": "Trauma – Niños y Adolescentes",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/ITQ-CA_Psicokit.psk"
+  },
+  {
+    "id": "psk_lotr_01",
+    "title": "LOT-R",
+    "subtitle": "Test de Orientación a la Vida Revisado",
+    "category": "Resiliencia y Bienestar",
+    "icon": "fa-seedling",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/LOT-R_Psicokit.psk"
+  },
+  {
+    "id": "psk_lss15_01",
+    "title": "LSS-15",
+    "subtitle": "Escala de Liderazgo para Deportes",
+    "category": "Psicología del Deporte",
+    "icon": "fa-person-running",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/LSS-15_Psicokit.psk"
+  },
+  {
+    "id": "psk_mdq_01",
+    "title": "MDQ",
+    "subtitle": "Cuestionario de Trastornos del Estado de Ánimo",
+    "category": "Trastornos del Estado de Ánimo",
+    "icon": "fa-cloud-rain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/MDQ_Psicokit.psk"
+  },
+  {
+    "id": "psk_menod_01",
+    "title": "MENO-D",
+    "subtitle": "Depresión en la Menopausia",
+    "category": "Trastornos del Estado de Ánimo",
+    "icon": "fa-cloud-rain",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/MENO-D_Psicokit.psk"
+  },
+  {
+    "id": "psk_pacs_01",
+    "title": "PACS",
+    "subtitle": "Escala de Deseo de Alcohol de Penn",
+    "category": "Adicciones",
+    "icon": "fa-wine-glass",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PACS_Psicokit.psk"
+  },
+  {
+    "id": "psk_pam_01",
+    "title": "PAM",
+    "subtitle": "Medida de Activación del Paciente",
+    "category": "Salud y Calidad de Vida",
+    "icon": "fa-heart-pulse",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PAM_Psicokit.psk"
+  },
+  {
+    "id": "psk_pces_01",
+    "title": "PCEs",
+    "subtitle": "Experiencias Positivas en la Infancia",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PCEs_Psicokit.psk"
+  },
+  {
+    "id": "psk_pci_01",
+    "title": "PCI",
+    "subtitle": "Inventario de Cogniciones Perfeccionistas",
+    "category": "Personalidad",
+    "icon": "fa-id-card-clip",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PCI_Psicokit.psk"
+  },
+  {
+    "id": "psk_pcl5_01",
+    "title": "PCL-5",
+    "subtitle": "Lista de Verificación de TEPT para el DSM-5",
+    "category": "Trauma y Disociación",
+    "icon": "fa-heart-crack",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PCL-5_Psicokit.psk"
+  },
+  {
+    "id": "psk_pfrs_01",
+    "title": "PFRS",
+    "subtitle": "Factores Protectores de Resiliencia",
+    "category": "Resiliencia y Bienestar",
+    "icon": "fa-seedling",
+    "url": "https://raw.githubusercontent.com/psicokitnube-sketch/psicokit-cloud/refs/heads/main/PFRS_Psicokit.psk"
+  }
 ]
